@@ -6,7 +6,7 @@ I'm a Python backend developer focused on building REST APIs and backend service
 
 I work with **Python, FastAPI, Django REST Framework, SQLAlchemy, PostgreSQL, Pydantic, pytest, Git, and Docker**.
 
-I enjoy working on backend logic, API design, database models, and application architecture. I have completed the **Python Backend Development** program at Yandex Practicum and I'm currently looking for my first professional opportunity as a backend developer.
+I enjoy working on backend logic, API design, database models, and application architecture. I have completed the **Python Backend Development** program at Yandex Practicum for 16 months and I'm currently looking for my first professional opportunity as a backend developer.
 
 ---
 
