@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Polina 👋
 
-<!--
-**P-Kulakova/P-Kulakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Backend Developer
 
-Here are some ideas to get you started:
+I'm a Python backend developer focused on building REST APIs and backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with **Python, FastAPI, Django REST Framework, SQLAlchemy, PostgreSQL, Pydantic, pytest, Git, and Docker**.
+
+I enjoy working on backend logic, API design, database models, and application architecture. I have completed the Python Backend Development program at Yandex Practicum and I'm currently looking for my first professional opportunity as a backend developer.
+
+### 🛠 Tech Stack
+
+**Backend:** Python · FastAPI · Django · Django REST Framework  
+**Databases & ORM:** PostgreSQL · SQLite · SQLAlchemy · Django ORM  
+**Testing:** pytest · unittest  
+**Tools:** Git · Docker · Postman
+
+### 📌 Currently
+
+- 🔭 Building and improving backend projects with FastAPI and Django REST Framework
+- 🌱 Deepening my knowledge of asynchronous Python, databases, and backend architecture
+- 💼 Open to Junior Python Backend Developer opportunities
+
+### 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/polina-kulakova-747654441/
+- Email: polinakulakova@yandex.ru
